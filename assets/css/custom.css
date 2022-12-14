@@ -1,0 +1,119 @@
+.usa-nav-primary {
+    display : block;
+}
+
+.usa-nav-primary > li > a {
+    padding: 1.3rem 1.5rem;
+}
+
+.opengov-landing article {
+  margin-top : 2em;
+}
+
+.usa-banner-header img.header-flag {
+  margin-top : .4em;
+}
+
+.opengov-landing article h3 {
+    margin : 2em auto 1em auto;
+    display: block;
+}
+
+.nap4 blockquote {
+    font-size : 1em;
+    border-left : 1em solid #ccc;
+    padding-left : 1em;
+    padding-top: 0;
+}
+
+.about h2 {
+    font-size : 1.4em;
+}
+
+h2 {
+    margin-top:  2em;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+    width : 100%;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.open-usa-feedback #fba-modal-dialog {
+    margin:  0;
+    max-width:  none;
+    background-color: #f0f0f0;
+    border-color : #ccc;
+}
+
+.open-usa-feedback h2.fba-modal-title {
+    margin-top :0;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-fieldset, 
+.open-usa-feedback #fba-modal-dialog .usa-hint, 
+.open-usa-feedback #fba-modal-dialog .usa-select, 
+.open-usa-feedback #fba-modal-dialog .usa-range, 
+.open-usa-feedback #fba-modal-dialog .usa-input, 
+.open-usa-feedback #fba-modal-dialog .usa-textarea {
+    font-size : 1.5rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-label {
+    font-size : 1.75rem;
+}
+
+
+.open-usa-feedback #fba-modal-dialog .usa-textarea {
+    max-width : none;
+    height : 25rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-character-count__message {
+    padding-bottom : 2rem;
+}
+
+#question_option_20117 label.usa-input__label {
+    margin-top : 2rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-radio__input--tile+.usa-radio__label {
+    background-color : #fff;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-radio__input--tile+.usa-radio__label:hover {
+    background-color : #e6e6e6;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-banner__header-flag {
+    font-size : 1.5rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-banner__header-text {
+    font-size : 1.25rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-banner__inner {
+    margin-left : 0;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-input {
+    height : inherit;
+    font-size : 1.5rem;
+    padding : 1rem;
+    max-width : 46rem;
+}
+
+.open-usa-feedback #fba-modal-dialog .usa-button {
+    font-size : inherit;
+    padding : 1.5rem 4rem;
+}
